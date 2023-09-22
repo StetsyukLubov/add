@@ -1,17 +1,18 @@
-﻿int a = 1;
-int b = 2;
-int c = 6;
-int d = 8;
-int e = 4;
+﻿Console.SetCursorPosition(10, 4);
+Console.WriteLine( "+");
 
-int max = a;
+int xa = 1;
+int ya = 1;
+int xb = 1;
+int yb = 30;
+int xc = 40;
+int yc = 30;
 
-if ( a > max ) max = a;
-if ( b > max ) max = b;
-if ( c > max ) max = c;
-if ( d > max ) max = d;
-if ( e > max ) max = e;
+Console.SetCursorPosition([xa, ya]);
+Console.WriteLine ( "+");
 
-Console.Write ("max= ");
-Console.WriteLine (max);
+Console.SetCursorPosition([xb, yb]);
+Console.WriteLine ( "+");
 
+Console.SetCursorPosition([xc, yc]);
+Console.WriteLine ( "+");

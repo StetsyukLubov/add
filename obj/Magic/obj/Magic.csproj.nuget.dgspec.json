@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ACER\\OneDrive\\Рабочий стол\\Geek Brain\\Examples\\Examples.csproj": {}
+    "C:\\Users\\ACER\\OneDrive\\Рабочий стол\\Geek Brain\\Examples\\obj\\Magic\\Magic.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ACER\\OneDrive\\Рабочий стол\\Geek Brain\\Examples\\Examples.csproj": {
+    "C:\\Users\\ACER\\OneDrive\\Рабочий стол\\Geek Brain\\Examples\\obj\\Magic\\Magic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ACER\\OneDrive\\Рабочий стол\\Geek Brain\\Examples\\Examples.csproj",
-        "projectName": "Examples",
-        "projectPath": "c:\\Users\\ACER\\OneDrive\\Рабочий стол\\Geek Brain\\Examples\\Examples.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Рабочий стол\\Geek Brain\\Examples\\obj\\Magic\\Magic.csproj",
+        "projectName": "Magic",
+        "projectPath": "C:\\Users\\ACER\\OneDrive\\Рабочий стол\\Geek Brain\\Examples\\obj\\Magic\\Magic.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ACER\\OneDrive\\Рабочий стол\\Geek Brain\\Examples\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\OneDrive\\Рабочий стол\\Geek Brain\\Examples\\obj\\Magic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
